@@ -10,19 +10,19 @@
   ==========================================================
   -->
 
-  <plot id="1" type="slice" basis="xy" color="mat">
+  <plot id="1" type="slice" basis="xy" color_by="material">
     <origin> 0.0 0.0 0.0 </origin>
     <width> 155 155 </width>
     <pixels>1000 1000</pixels>
   </plot>
 
-  <plot id="2" type="slice" basis="xz" color="mat">
+  <plot id="2" type="slice" basis="xz" color_by="material">
     <origin> 0.0 0.0 0.0 </origin>
     <width> 200 200 </width>
     <pixels>1000 1000</pixels>
   </plot>
 
-  <plot id="3" type="slice" basis="yz" color="mat">
+  <plot id="3" type="slice" basis="yz" color_by="material">
     <origin> 0.0 0.0 0.0 </origin>
     <width> 200 200 </width>
     <pixels>1000 1000</pixels>

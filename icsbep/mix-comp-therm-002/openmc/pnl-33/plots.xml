@@ -10,8 +10,7 @@
   ===============================================================
   -->
 
-  <plot id="1" color="mat">
-    <basis>xy</basis>
+  <plot id="1" color_by="material" basis="xy" type="slice">
     <origin>35. 35. 4.5</origin>
     <width>70. 70.</width>
     <pixels>2000 2000</pixels>

@@ -10,19 +10,19 @@
   ==============================================================
   -->
 
-  <plot id="1" color="mat">
+  <plot id="1" color_by="material">
     <origin>324. 45. 100.</origin>
     <width>728. 151.</width>
     <pixels>3000 600</pixels>
   </plot>
 
-  <plot id="2" color="mat">
+  <plot id="2" color_by="material">
     <origin>324. 45. -20.</origin>
     <width>728. 151.</width>
     <pixels>3000 600</pixels>
   </plot>
 
-  <plot id="3" color="mat">
+  <plot id="3" color_by="material">
     <origin>324. 45. 380.</origin>
     <width>728. 151.</width>
     <pixels>3000 600</pixels>
